@@ -2,12 +2,16 @@
 
 ---
 
+[![Back Roads Landing Page](./public/thumbnail.jpeg)](https://backroads-landing-page-sigma.vercel.app/)
+
 ## Overview
 
-A landing page for Back Roads travel company built with React and Tailwind CSS.
+A landing page for Back Roads travel company built with React and Tailwind CSS. It supports multiple languages including Arabic, English, and Spanish. The design is modern and clean, with a focus on user experience.
 
 ## Features
 
+- Translation support (Arabic, English and Spanish)
+- Modern and clean design
 - Responsive design
 - Smooth scrolling
 - Interactive elements
