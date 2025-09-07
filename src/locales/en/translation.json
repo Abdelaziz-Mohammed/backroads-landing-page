@@ -1,0 +1,102 @@
+{
+  "navbar": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "tours": "Tours"
+  },
+  "hero": {
+    "title": "continue exploring",
+    "subtitle": "Discover unforgettable journeys and hidden gems. Your adventure starts here.",
+    "button": "explore tours"
+  },
+  "about": {
+    "title": {
+      "first": "About",
+      "second": "Us"
+    },
+    "subtitle": "explore the difference",
+    "contentOne": "We are dedicated to providing the best travel experiences.",
+    "contentTwo": "Join us to explore the world like never before.",
+    "button": "read more"
+  },
+  "services": {
+    "title": {
+      "first": "Our",
+      "second": "Services"
+    },
+    "service1": {
+      "title": "saving money",
+      "description": "We offer competitive prices for all our tours."
+    },
+    "service2": {
+      "title": "endless hiking",
+      "description": "Explore beautiful trails with our guided hikes."
+    },
+    "service3": {
+      "title": "amazing comfort",
+      "description": "Experience luxury accommodations on all our tours."
+    }
+  },
+  "tours": {
+    "title": {
+      "first": "Featured",
+      "second": "Tours"
+    },
+    "tour1": {
+      "title": "Tibet Adventure",
+      "description": "Experience the serene beauty of Tibet with our exclusive tour. From the majestic Himalayas to the vibrant culture, this adventure promises unforgettable memories.",
+      "destination": "China",
+      "duration": "6 days",
+      "price": "$2,100",
+      "date": "August 26th, 2023"
+    },
+    "tour2": {
+      "title": "best of java",
+      "description": "Explore the stunning landscapes and rich culture of Java. This tour takes you through beautiful rice terraces, ancient temples, and vibrant markets, offering a perfect blend of adventure and relaxation.",
+      "destination": "Indonesia",
+      "duration": "7 days",
+      "price": "$1,800",
+      "date": "September 15th, 2023"
+    },
+    "tour3": {
+      "title": "explore hong kong",
+      "description": "Discover the vibrant culture and stunning skyline of Hong Kong. This tour offers a perfect blend of city exploration and cultural experiences.",
+      "destination": "Hong Kong",
+      "duration": "5 days",
+      "price": "$1,500",
+      "date": "October 10th, 2023"
+    },
+    "tour4": {
+      "title": "kenya highlights",
+      "description": "Embark on a journey through the breathtaking landscapes of Kenya. This tour showcases the best of Kenya's wildlife and natural beauty.",
+      "destination": "Kenya",
+      "duration": "10 days",
+      "price": "$3,000",
+      "date": "November 5th, 2023"
+    },
+    "tour5": {
+      "title": "Africa Highlights",
+      "description": "Experience the diverse cultures and breathtaking landscapes of Africa. This tour takes you from the savannahs of the Serengeti to the vibrant streets of Cape Town.",
+      "destination": "Africa",
+      "duration": "14 days",
+      "price": "$5,000",
+      "date": "December 1st, 2023"
+    },
+    "tour6": {
+      "title": "Taj Mahal Tour",
+      "description": "Experience the breathtaking beauty and rich history of the Taj Mahal. This tour offers a perfect blend of cultural exploration and relaxation.",
+      "destination": "India",
+      "duration": "5 days",
+      "price": "$1,200",
+      "date": "January 15th, 2024"
+    }
+  },
+  "footer": {
+    "home": "Home",
+    "about": "About",
+    "services": "Services",
+    "tours": "Tours",
+    "text": "© 2025 Back Roads Travel Tours Company. All rights reserved."
+  }
+}
